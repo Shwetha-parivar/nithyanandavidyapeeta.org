@@ -1,0 +1,72 @@
+CRITICAL - 2023-09-29 06:13:55 --> Invalid file: "academic_calendar.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('academic_calendar.php')
+ 2 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('academic_calendar', [], true)
+ 3 APPPATH\Controllers\Home.php(202): view('academic_calendar')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->academic_calendar()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-09-29 06:14:53 --> Invalid file: "list_of_smc.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('list_of_smc.php')
+ 2 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('list_of_smc', [], true)
+ 3 APPPATH\Controllers\Home.php(215): view('list_of_smc')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->list_of_smc()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-09-29 06:15:29 --> Invalid file: "link_of_result.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('link_of_result.php')
+ 2 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('link_of_result', [], true)
+ 3 APPPATH\Controllers\Home.php(228): view('link_of_result')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->link_of_result()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-09-29 06:15:48 --> Invalid file: "link_of_pta.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('link_of_pta.php')
+ 2 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('link_of_pta', [], true)
+ 3 APPPATH\Controllers\Home.php(96): view('link_of_pta')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->link_of_pta()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-09-29 06:16:09 --> Invalid file: "affiliation_letter.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('affiliation_letter.php')
+ 2 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('affiliation_letter', [], true)
+ 3 APPPATH\Controllers\Home.php(163): view('affiliation_letter')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->affiliation_letter()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-09-29 06:16:25 --> Invalid file: "noc.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('noc.php')
+ 2 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('noc', [], true)
+ 3 APPPATH\Controllers\Home.php(124): view('noc')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->noc()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-09-29 06:16:42 --> Invalid file: "building.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('building.php')
+ 2 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('building', [], true)
+ 3 APPPATH\Controllers\Home.php(110): view('building')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->building()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-09-29 06:17:10 --> Invalid file: "recognition_certificate.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('recognition_certificate.php')
+ 2 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('recognition_certificate', [], true)
+ 3 APPPATH\Controllers\Home.php(176): view('recognition_certificate')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->recognition_certificate()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

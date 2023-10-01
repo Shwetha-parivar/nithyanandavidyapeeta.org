@@ -1,0 +1,23 @@
+Version: 2.0.0 —-—-DATE:  02-01-2023
+
+1: Bootstrap v5.2.1 to v5.2.3 Updated.
+
+---------------------------------------------------
+
+
+
+Version: 1.0.2 —-—-DATE:  19-09-2022
+
+1: Bootstrap v4.6.0 to v5.2.1 Updated.
+2. CSS Issue fixed.
+
+---------------------------------------------------
+
+
+
+Version: 1.0.1 —-—-DATE:  03-07-2021
+
+1: Updated   : Bootstrap v4.4.1 to Bootstrap v4.6.0
+2. Updated   : jquery v3.3.1 to jquery v3.5.1 & Added migrate 3.3.0 JS
+
+---------------------------------------------------
